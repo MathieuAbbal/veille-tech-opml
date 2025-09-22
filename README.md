@@ -49,7 +49,8 @@
 
 ### Backend & Data
 
-- [LoopBack 4 (loopback-next) Releases](https://github.com/loopbackio/loopback-next/releases) — `https://github.com/loopbackio/loopback-next/releases.atom`
+- [LoopBack 4 (loopback.io — commits (gh-pages)](https://github.com/loopbackio/loopback.io/commits/gh-pages.atom) — `https://github.com/loopbackio/loopback.io/commits/gh-pages.atom`
+- [LoopBack Blog (rss)](https://loopback.io/blog/rss.xml) — `https://loopback.io/blog/rss.xml`
 - [MongoDB Blog](https://www.mongodb.com/blog) — `https://www.mongodb.com/blog/rss`
 - [Studio 3T Blog](https://studio3t.com/) — `https://studio3t.com/feed/`
 
@@ -80,15 +81,6 @@
 - (Optionnel) Crée une **Release** GitHub (tag `vX.Y.Z`) et attache l’OPML.
 
 
-## 🛠️ Dépannage
-
-- **“Empty OPML file”** : vérifie que le fichier n’est pas vide et que les caractères spéciaux (`&`) sont bien échappés dans le XML.
-
-- **Doublons** : certains lecteurs affichent des flux en double si le même `xmlUrl` est dans plusieurs dossiers.
-
-- **Import partiel** : certains services ignorent les dossiers vides.
-
-
 ---
 
-*Dernière mise à jour : 2025-09-04 16:40 UTC*
+*Dernière mise à jour : 22/09/2025
