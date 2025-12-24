@@ -83,4 +83,4 @@
 
 ---
 
-*Dernière mise à jour : 22/09/2025
+*Dernière mise à jour : 24/12/2025
