@@ -72,15 +72,6 @@
 
 ---
 
-## 🔄 Mettre à jour l’OPML
-
-- Ajoute/supprime des sources dans ton lecteur → **ré-exporte** un nouvel OPML.
-
-- Remplace `opml/veille_mathieu.opml` dans le dépôt.
-
-- (Optionnel) Crée une **Release** GitHub (tag `vX.Y.Z`) et attache l’OPML.
 
 
----
-
-*Dernière mise à jour : 25/12/2025
+*Dernière mise à jour : 29/12/2025
